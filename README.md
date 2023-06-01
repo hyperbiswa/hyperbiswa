@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning mern
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me biswa@hyperxd.com
+- 📫 How to reach me biswa.xyz
 
 <!---
 hyperbiswa/hyperbiswa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
